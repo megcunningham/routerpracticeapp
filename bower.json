@@ -1,0 +1,21 @@
+{
+  "name": "routerpracticeapp",
+  "version": "1.00",
+  "homepage": "https://github.com/megcunningham/routerpracticeapp",
+  "authors": [
+    "Meg Cunningham <meg_cunningham@live.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "angular": "1.4.0"
+  }
+}
